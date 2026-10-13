@@ -1,0 +1,46 @@
+[
+    {
+        "id": "ven-001",
+        "name": "Mr D Pizza — Cape Town CBD",
+        "address": "12 Loop St, Cape Town, 8000",
+        "coordinate": {
+            "lat": -33.918861,
+            "lng": 18.4233
+        },
+        "isFavorite": false,
+        "updatedAt": "2025-06-01T12:00:00Z"
+    },
+    {
+        "id": "ven-002",
+        "name": "Bree Street Burgers",
+        "address": "103 Bree St, Cape Town, 8001",
+        "coordinate": {
+            "lat": -33.9214,
+            "lng": 18.4175
+        },
+        "isFavorite": false,
+        "updatedAt": "2025-06-01T12:00:00Z"
+    },
+    {
+        "id": "ven-003",
+        "name": "Sea Point Sushi",
+        "address": "90 Regent Rd, Sea Point, 8005",
+        "coordinate": {
+            "lat": -33.9238,
+            "lng": 18.3831
+        },
+        "isFavorite": true,
+        "updatedAt": "2025-06-01T12:00:00Z"
+    },
+    {
+        "id": "ven-004",
+        "name": "Gardens Coffee",
+        "address": "50 Kloof St, Gardens, 8001",
+        "coordinate": {
+            "lat": -33.9298,
+            "lng": 18.4116
+        },
+        "isFavorite": false,
+        "updatedAt": "2025-06-01T12:00:00Z"
+    }
+]

@@ -1,0 +1,648 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "tryAgain": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Try again"
+          }
+        }
+      }
+    },
+    "vendorLoadFailed": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vendors couldn’t be loaded. Please try again."
+          }
+        }
+      }
+    },
+    "vendorResponseInvalid": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The server returned unexpected vendor data. Please try again."
+          }
+        }
+      }
+    },
+    "placesUnavailable": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Place search is unavailable. Please check the app configuration."
+          }
+        }
+      }
+    },
+    "placeLocationMissing": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This place has no usable location. Please choose another result."
+          }
+        }
+      }
+    },
+    "placeAddFailed": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This place couldn’t be added. Please try again."
+          }
+        }
+      }
+    },
+    "placeSearchFailed": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Places couldn’t be searched. Please try again."
+          }
+        }
+      }
+    },
+    "mockREST": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mock REST"
+          }
+        }
+      }
+    },
+    "previewService": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Preview"
+          }
+        }
+      }
+    },
+    "demoPlacesHint": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Demo Places · Try “Waterfront”, “Bakery”, or “Cape Town”. These are sample results."
+          }
+        }
+      }
+    },
+    "addingPlace": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Adding place…"
+          }
+        }
+      }
+    },
+    "searching": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Searching…"
+          }
+        }
+      }
+    },
+    "noPlacesFound": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No places found. Try another name or address."
+          }
+        }
+      }
+    },
+    "googleMaps": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Google Maps"
+          }
+        }
+      }
+    },
+    "placeSearchPrompt": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Place name or address"
+          }
+        }
+      }
+    },
+    "addPlace": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add a place"
+          }
+        }
+      }
+    },
+    "cancel": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cancel"
+          }
+        }
+      }
+    },
+    "addressUnavailable": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Address unavailable"
+          }
+        }
+      }
+    },
+    "selectedOnMap": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Selected on map"
+          }
+        }
+      }
+    },
+    "findingVendors": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finding vendors…"
+          }
+        }
+      }
+    },
+    "exploreCapeTown": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Explore Cape Town"
+          }
+        }
+      }
+    },
+    "sessionVendorsNotice": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sample vendors · Favourites and added places last for this session."
+          }
+        }
+      }
+    },
+    "appTitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vendor Locator"
+          }
+        }
+      }
+    },
+    "settings": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Settings"
+          }
+        }
+      }
+    },
+    "reloadVendors": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reload vendors"
+          }
+        }
+      }
+    },
+    "searchAndAddPlace": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Search and add a place"
+          }
+        }
+      }
+    },
+    "noVendors": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No vendors yet"
+          }
+        }
+      }
+    },
+    "addFirstVendorHint": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Search for a place to add your first vendor."
+          }
+        }
+      }
+    },
+    "vendorMap": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vendor map"
+          }
+        }
+      }
+    },
+    "mapSetupRequired": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Map setup required"
+          }
+        }
+      }
+    },
+    "nearbyHeadline": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your next favourite is nearby"
+          }
+        }
+      }
+    },
+    "mapSetupShort": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Configure your Google Maps key to view the map."
+          }
+        }
+      }
+    },
+    "mapSetupDetail": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add a Google Maps key in Config/Local.xcconfig to show the map. You can explore vendors below."
+          }
+        }
+      }
+    },
+    "sessionToken": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Session token"
+          }
+        }
+      }
+    },
+    "saveSecurely": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Save securely"
+          }
+        }
+      }
+    },
+    "tokenSaved": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Token saved in Keychain."
+          }
+        }
+      }
+    },
+    "revealToken": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Read and reveal stored token"
+          }
+        }
+      }
+    },
+    "noToken": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No token is stored."
+          }
+        }
+      }
+    },
+    "tokenRevealed": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stored token revealed below."
+          }
+        }
+      }
+    },
+    "hideToken": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hide token"
+          }
+        }
+      }
+    },
+    "clearToken": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clear token"
+          }
+        }
+      }
+    },
+    "tokenCleared": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Token cleared."
+          }
+        }
+      }
+    },
+    "session": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Session"
+          }
+        }
+      }
+    },
+    "secureStorageNotice": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stored on this device in iOS Keychain. Used as a Bearer token for vendor requests. The demo endpoint stays on your device."
+          }
+        }
+      }
+    },
+    "services": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Services"
+          }
+        }
+      }
+    },
+    "vendors": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vendors"
+          }
+        }
+      }
+    },
+    "places": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Places"
+          }
+        }
+      }
+    },
+    "mock": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mock"
+          }
+        }
+      }
+    },
+    "google": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Google"
+          }
+        }
+      }
+    },
+    "mapKey": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Map key"
+          }
+        }
+      }
+    },
+    "configured": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Configured"
+          }
+        }
+      }
+    },
+    "notConfigured": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not configured"
+          }
+        }
+      }
+    },
+    "done": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Done"
+          }
+        }
+      }
+    },
+    "favoriteVendor": {
+      "extractionState": "manual",
+      "comment": "Accessibility action. %@ is the vendor name.",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Favorite %@"
+          }
+        }
+      }
+    },
+    "unfavoriteVendor": {
+      "extractionState": "manual",
+      "comment": "Accessibility action. %@ is the vendor name.",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unfavorite %@"
+          }
+        }
+      }
+    },
+    "vendorCount": {
+      "extractionState": "manual",
+      "comment": "Number of vendors in the list header.",
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld vendor"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld vendors"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "secureStorageFailure": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Secure storage is unavailable. Please try again after unlocking your device."
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
